@@ -92,9 +92,9 @@ HTML           `app/views`    `.scala.html`       `views.html`      [`play.twirl
 
 XML            `app/views`    `.scala.xml`        `views.xml`       [`play.twirl.api.Xml`]
 
-Javascript     `app/views`    `.scala.js`         `views.js`        [`play.twirl.api.Txt`]
+Javascript     `app/views`    `.scala.js`         `views.js`        [`play.twirl.api.JavaScript`]
 
-Plain text     `app/views`    `.scala.txt`        `views.txt`       [`play.twirl.api.JavaScript`]
+Plain text     `app/views`    `.scala.txt`        `views.txt`       [`play.twirl.api.Txt`]
 --------------------------------------------------------------------------------------------------
 </div>
 
